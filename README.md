@@ -7,6 +7,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborahcristinadeoliveira&show_icons=true&theme=radical)
 
+
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></img>
+<img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></img>
+<img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></img>
+<img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></img>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborahcristinadeoliveira&layout=compact&langs_count=7&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
