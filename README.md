@@ -2,7 +2,6 @@
 <p>Sou a Deborah Cristina, natural de São Paulo - Capital </p>
 <p> 🚀 Hoje estudando desenvolvimento Web full-stack na Trybe.</p>
 <p>👾 Atualmente estudando Back-end.</p>
-<p>:email: Email para contato: cris_yumi02@hotmail.com</p>
 <p>:art: Horas vagas sou Concept artist.</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborahcristinadeoliveira&show_icons=true&theme=radical)
