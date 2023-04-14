@@ -1,6 +1,7 @@
 ### Hi there 👋
 Email: <a href=“mailto:cris_yumi02@hotmail.com“>cris_yumi02@hotmail.com</a><br>
-Linkedin: <a href=“https://www.linkedin.com/in/deborah-cristina-desenvolvedoraweb/“>Deborah Cristina</a>
+Linkedin: <a href="https://www.linkedin.com/in/deborah-cristina-desenvolvedoraweb/">Deborah Cristina</a>
+
 <p>Sou a Deborah Cristina, natural de São Paulo - Capital </p>
 <p> 🚀 Hoje estudando desenvolvimento Web full-stack na Trybe.</p>
 <p>👾 Atualmente estudando Back-end.</p>
